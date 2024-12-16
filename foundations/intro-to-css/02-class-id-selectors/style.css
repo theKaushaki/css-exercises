@@ -1,0 +1,19 @@
+.odd {
+      background-color: pink;
+      font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#scnd {
+      color: blueviolet;
+      font-size: 36px;
+}
+
+.odd#thrd {
+      font-size: 24px;
+}
+
+#frth {
+      background-color: lightgreen;
+      font-size: 24px;
+      font-weight: bold;
+}
